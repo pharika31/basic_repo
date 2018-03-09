@@ -4,3 +4,7 @@ This is an asignment to learn Git and Github. Main concepts:
 3. merge
 4. push
 5. pull
+
+--making some more changes to this --
+
+working on understanding push, pull, cloning vs forkin etc.
